@@ -17,3 +17,18 @@
 
 <br><br><br><br>
    <h1>Breaking News Screen</h1><br><br>
+   <img src="https://user-images.githubusercontent.com/65995582/156232265-d969ba87-1e22-4945-a231-371f909d2777.png" />
+<br><br>
+
+   <h1>Saved News Screen </h1><br><br>
+   <img src="https://user-images.githubusercontent.com/65995582/156232869-b65b7163-0ec6-4ccd-922a-875c149e35d9.png" />
+<br><br>
+   
+   <h1>Search News Screen</h1><br><br>
+   <img src ="https://user-images.githubusercontent.com/65995582/156232951-682a0c52-3ae3-4504-8496-04cc844ef58a.png" />
+   
+<br><br>
+   <h1>Custom Web View Screen<h1><br><br>
+   <img src = "https://user-images.githubusercontent.com/65995582/156233178-6142e118-26c1-46ef-8f83-2b92f0e89a73.png" />
+      
+<br><br>
