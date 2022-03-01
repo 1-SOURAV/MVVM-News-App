@@ -13,3 +13,8 @@
        -> Room Database (How to save the data to local user)<br>
       -> Fragments (Used to show diff - diff screens like. Breaking News, Search News, Favourite News.<br>
   </h4>
+
+
+<br><br><br><br>
+   <h1>Breaking News Screen</h1><br><br>
+   [](https://user-images.githubusercontent.com/65995582/156231580-d712f594-211f-420d-943f-05079c9bb4f6.png)
