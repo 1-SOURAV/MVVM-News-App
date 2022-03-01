@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@color/BackGroundLight"
+    android:layout_margin="4dp"
     android:padding="8dp">
 
     <ImageView
@@ -20,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="SOURCE"
-        android:textColor="@android:color/black"
+        android:textColor="#ffff"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivArticleImage" />
 
@@ -32,7 +34,7 @@
         android:ellipsize="end"
         android:maxLines="3"
         android:text="TITLE"
-        android:textColor="@android:color/black"
+        android:textColor="#ffff"
         android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintRight_toRightOf="parent"
@@ -48,7 +50,7 @@
         android:ellipsize="end"
         android:maxLines="5"
         android:text="DESCRIPTION"
-        android:textColor="@android:color/black"
+        android:textColor="#ffff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivArticleImage"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
@@ -59,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="PUBLISHED AT"
-        android:textColor="@android:color/black"
+        android:textColor="#ffff"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvSource" />
 

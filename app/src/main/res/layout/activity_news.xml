@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/BackGround"
     tools:context=".ui.NewsActivity">
 
     <FrameLayout
@@ -31,6 +32,8 @@
         android:id="@+id/bottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="56dp"
+        app:itemTextColor="@color/bottom_nav_bar_bg"
+        app:itemIconTint="@color/bottom_nav_bar_bg"
         app:menu="@menu/bottom_navigation_menu"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
