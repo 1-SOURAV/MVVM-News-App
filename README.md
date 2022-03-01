@@ -17,4 +17,3 @@
 
 <br><br><br><br>
    <h1>Breaking News Screen</h1><br><br>
-   [](https://user-images.githubusercontent.com/65995582/156231580-d712f594-211f-420d-943f-05079c9bb4f6.png)
